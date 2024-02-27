@@ -1,1 +1,1 @@
-# terraform-jeniks-eks
+# terraform-jenkins-eks
